@@ -4,11 +4,10 @@ h1 align="center">Valoriza</h1>
   
 <img align='center src='https://user-images.githubusercontent.com/86750985/182973693-a0cf36bf-4543-4f44-8e84-b47f6744fe6b.png'
 
-  
-</p>
 
 <p align="center">
-  
+
+  <img alt="Preview" src="https://user-images.githubusercontent.com/86750985/182973926-e9661cce-849a-472c-af78-8030a1a7e415.png">
 </p>
 
 ## ✨ Tecnologias
@@ -36,9 +35,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Por fim, a aplicação estará disponível em `http://localhost:3000`
 
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
