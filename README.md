@@ -1,8 +1,6 @@
-h1 align="center">Valoriza</h1>
+
 
 <p align="center">
-  
-<img align='center src='https://user-images.githubusercontent.com/86750985/182973693-a0cf36bf-4543-4f44-8e84-b47f6744fe6b.png'
 
 
 <p align="center">
