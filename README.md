@@ -8,6 +8,13 @@
   <img alt="Preview" src="https://user-images.githubusercontent.com/86750985/182973926-e9661cce-849a-472c-af78-8030a1a7e415.png">
 </p>
 
+
+
+<p align="center">
+
+  <img alt="Preview" src="https://user-images.githubusercontent.com/86750985/192678090-c920ed99-9cf9-4d06-b519-6ef392055890.png">
+</p>
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
